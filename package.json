@@ -1,0 +1,25 @@
+{
+  "name": "num-2-myanmar-english",
+  "version": "1.0.0",
+  "description": "convert numbers to Myanmar or English",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "number",
+    "myanmar",
+    "english",
+    "convert"
+  ],
+  "author": "yehtutwin",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yehtutwin/num-2-myanmar-english.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yehtutwin/num-2-myanmar-english/issues"
+  },
+  "homepage": "https://github.com/yehtutwin/num-2-myanmar-english#readme"
+}
